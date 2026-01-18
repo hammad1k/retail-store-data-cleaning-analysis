@@ -79,18 +79,3 @@ If a discount was not recorded, it was assumed that no discount was applied.
 - Jupyter Notebook  
 
 ---
-
-## Project Structure
-
-retail-sales-project/
-├── data/
-│ ├── raw/
-│ │ └── retail_store_sales.csv
-│ └── processed/
-│ └── retail_store_sales.csv
-│
-├── notebooks/
-│ └── 01-data-cleaning.ipynb
-│
-├── README.md
-├── requirements.txt
