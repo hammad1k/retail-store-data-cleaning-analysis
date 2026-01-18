@@ -82,15 +82,15 @@ If a discount was not recorded, it was assumed that no discount was applied.
 
 ## Project Structure
 
-ecom-data-cleaning-analysis/
+retail-sales-project/
 ├── data/
-│   ├── raw/
-│   │   └── retail_store_sales.csv        # Original dataset
-│   └── processed/
-│       └── retail_store_sales.csv        # Cleaned dataset
+│ ├── raw/
+│ │ └── retail_store_sales.csv
+│ └── processed/
+│ └── retail_store_sales.csv
 │
 ├── notebooks/
-│   └── 01-data-cleaning.ipynb             # Data cleaning workflow
+│ └── 01-data-cleaning.ipynb
 │
 ├── README.md
 ├── requirements.txt
